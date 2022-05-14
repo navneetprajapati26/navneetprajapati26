@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navneet Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React native, flutter**
+- 🌱 I’m currently learning ** flutter**
 
 - 👨‍💻 All of my projects are available at [https://navneetprajapati26.github.io/my/](https://navneetprajapati26.github.io/my/)
 
