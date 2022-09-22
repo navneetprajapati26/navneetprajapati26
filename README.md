@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navneet Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif">
 
 - 🌱 I’m currently learning **flutter**
 
