@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navneet Prajapati</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="[https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif](https://miro.medium.com/max/828/1*vkfI4nFNheC5v0p7wzDtGg.gif)">
+<img src="https://miro.medium.com/max/828/1*vkfI4nFNheC5v0p7wzDtGg.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://navneetprajapati26.github.io/my/](https://navneetprajapati26.github.io/my/)
